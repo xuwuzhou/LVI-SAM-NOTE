@@ -1,4 +1,7 @@
 # LVI-SAM-NOTE
+
+LVI_SAM的代码注释和论文解析
+
 The note of LVI-SAM(focus on the interaction of LIDAR and CAMERA)
 
 Created in 4/28/2021; Predicted finishing time 4/30/2021;
