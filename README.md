@@ -9,3 +9,7 @@ The note will focus on the interaction of Lidar and Camera, if you want to know 
 
 This has been updated on my personal blog(https://xuwuzhou.top/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB18/)
 
+## Note of the code
+
+TBD, expected time :4/30/2021
+
